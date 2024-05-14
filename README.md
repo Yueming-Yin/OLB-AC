@@ -59,6 +59,12 @@ In your jupyter notebook, please re-run the corresponding notebook of "OLB-AC-Pr
 ./OLB-AC-Prediction/0_OLB-AC_1.ipynb
 ```
 
+# Reproduction on Matched Molecular Pair (MMP) Baselines
+In your jupyter notebook, please re-run the notebook of "Baselines/MMPDB.ipynb". For example:
+```
+./Baselines/MMPDB.ipynb
+```
+
 # Tips
 - Under the "Data" and "Module" folders are organized data and modules for review. For the convenience of operation, these data and modules are distributed to the "AttentiveFP" and "data" folders in subfolders.
 - Some code may need to create an empty "result" folder in the current directory to store the run results.
