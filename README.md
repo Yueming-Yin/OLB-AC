@@ -1,5 +1,5 @@
 # OLB-AC
-Reproducing of the paper entitled "OLB-AC: Towards Optimizing Ligand Bioactivities Through Deep Graph Learning and Activity Cliffs" (Under Review)
+Reproducing of the paper entitled "OLB-AC: Towards Optimizing Ligand Bioactivities Through Deep Graph Learning and Activity Cliffs" (Accepted by Bioinformatics)
 
 - All rights reserved by Yueming Yin, Email: 1018010514@njupt.edu.cn (or yueming.yin@ntu.edu.sg).
 
